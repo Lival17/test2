@@ -5,6 +5,10 @@ body{
 .clearfix{
     clear:both;
 }
+h1{
+    font-size: 0.5em;
+}
+
 
 .container{
     margin: auto;
